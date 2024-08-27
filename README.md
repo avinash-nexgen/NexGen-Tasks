@@ -1,2 +1,2 @@
 # NexGen-Tasks
-All the class tasks i will post here
+All the class tasks I will post here
