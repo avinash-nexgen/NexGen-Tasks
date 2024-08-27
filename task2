@@ -1,0 +1,9 @@
+1.Create a list of your five favorite fruits. Then, add one more fruit to the list using the append() method and print the updated list.
+
+2.Start with a list of the first three months of the year. Then, extend the list to include the next three months and print the final list.
+
+3.Create a list containing five different numbers. Write a function that takes a number as an argument and returns the index of that number in the list. If the number is not in the list, return a message saying so.
+
+4.Given a tuple containing the numbers 1 to 10, write a function that finds and returns the index of a specific number provided as an argument.
+
+5.Create a tuple with repeated elements. Write a function that takes an element and returns the count of that element in the tuple.

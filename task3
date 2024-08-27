@@ -1,0 +1,4 @@
+# create a file called as demo.txt (empty),
+ add two lines to the file by using write method at once. 
+# read the content of demo and copy it to the new file 
+#called as cp.txt append some more content to the cp.txt

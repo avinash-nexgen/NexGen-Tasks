@@ -1,0 +1,5 @@
+# create list of your favorate items
+# using list comprehenshion add the nubmer of items to it 
+
+# eg :li = ['laptop', 'console'] 
+# output : linu = ['1.laptop', '2.console']
